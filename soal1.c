@@ -1,15 +1,18 @@
-/*
-Nama : Kyrie Eleison Jacob Pakpahan
-NIM : 13224006
-Hari : Selasa
-Tanggal : 14 April 2026
-*/
+/** EL2008 Praktikum Pemecahan Masalah dengan Pemrograman 2024/2025
+ *   Modul               : 1 
+ *   Hari dan Tanggal    : Selasa, 14 April 2026 
+ *   Nama (NIM)          : Kyrie Eleison Jacob Pakpahan (13224006)
+ *   Nama File           : soal1.c
+ *   Deskripsi           : Untuk setiap tingkat dari 1 sampai N, cetak warna lampu berdasarkan aturan prioritas tertentu
+ * 
+ */
+
 
 #include <stdio.h>
 #include <stdlib.h>
 
 
-int main(void){
+int main(){
     int N;
 
     // input banyak urutan dari lampu
